@@ -117,3 +117,7 @@ Tema:
 ## 📄 Licença
 
 Uso educacional.
+
+PARA ACESSAR O PROJETO
+
+[(https://nogueiraluciana-netizen.github.io/agrinho-2026/)]
